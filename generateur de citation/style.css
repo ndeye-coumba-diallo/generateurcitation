@@ -1,0 +1,47 @@
+/*corps du document*/
+
+body {
+    background: url(1.jpg) no-repeat;
+    font-size: 30px;
+    background-size: cover
+}
+
+
+/*conteneur des citations*/
+
+#container {
+    background-color: rgb(107, 109, 109);
+    background-size: contain;
+    border: 5px solid rgb(0, 0, 0);
+    height: 275px;
+    width: 750px;
+    margin: 100px auto;
+    text-align: center;
+    position: relative;
+}
+
+
+/*bouton générer*/
+
+#btn {
+    margin: 20px auto;
+    height: 55px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(249, 249, 252);
+    cursor: pointer;
+}
+
+
+/*id outpout*/
+
+#output {
+    margin: 0px auto;
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: rgb(136, 127, 127);
+}
